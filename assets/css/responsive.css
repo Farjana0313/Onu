@@ -1,0 +1,46 @@
+@media screen and (max-width:640px){
+	.item h3{
+		font-size:20px;
+	}
+	.item h2{
+		font-size:60px;
+	}
+	.item h4{
+		font-size:18px;
+	}
+	.aboutIcon{
+		max-width:292px;
+		margin:30px auto;
+	}
+	.ServiceIcon{
+		max-width:292px;
+		margin:30px auto;
+	}
+	.pricing{
+		max-width:292px;
+		margin:30px auto;
+	}
+	.element-item{
+		width:50%;
+	}
+	.count{
+		max-width:292px;
+		margin:30px auto;
+	}
+}
+@media screen and (max-width:480px){
+	.element-item{
+		width:100%;
+	}
+}
+@media screen and (max-width:320px){
+	.item h3{
+		font-size:15px;
+	}
+	.item h2{
+		font-size:40px;
+	}
+	.item h4{
+		font-size:15px;
+	}
+}
